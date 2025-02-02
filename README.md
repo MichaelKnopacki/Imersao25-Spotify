@@ -13,10 +13,12 @@ Git: https://github.com/guilhermeonrails/imersao-front/tree/aula_1
 
 Aula 02:
 
-Aula:
-Git: 
+Aula: https://cursos.alura.com.br/imersoes/aulas/estilo-avancado-e-posicionamento-transformando-layouts-c147
+Git: https://github.com/guilhermeonrails/imersao-front/tree/aula_2
+
+* Criar todo menu lateral da página;
+* Aprender os fundamentos do CSS Flexbox;
+* Saber mais sobre posicionamentos no CSS.
 
 
 
-
-Landing Page: 
